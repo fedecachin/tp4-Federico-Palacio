@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1625333020 source:c:\users\pfede\desktop\pruebalin\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625332504 c:\users\pfede\desktop\pruebalin\linkedlist.h
+
+1625335090 source:c:\users\pfede\desktop\pruebalin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1625333020 source:c:\users\pfede\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625332504 c:\users\pfede\desktop\tp4\linkedlist.h
+
